@@ -5,7 +5,7 @@ Programming langugae used - JAVA
 Tools used - selenium , TestNG (6.14.3), Cucumber, GIt, GitHub, Maven
 
 
-Framework details - Maven based cucmber and TestNG Framework
+Framework details - Maven based Cucumber and TestNG Framework
 
 
 Skills used - BDD, Automation, devops
