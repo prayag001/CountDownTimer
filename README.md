@@ -7,8 +7,8 @@ Skills used - BDD, Automation
 
 #Instructions to run framework in different ways -
 
-1) right click on countDownApp.java -> run as a testng (project will run as testng)
-2) right click on TimerCucumber.java -> run as a testNg (project will run as cucumber)
+1) right click on countDownApp.java (src/test/java) -> run as a testng (project will run as testng)
+2) right click on TimerCucumber.java (src/test/java) -> run as a testNg (project will run as cucumber)
 3) right click on testng.xml -> run as a testng (project will run as testng)
 4) command prompt under project directory -> mvn clean test -> (project will run as testng)
 
