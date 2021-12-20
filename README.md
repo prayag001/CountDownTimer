@@ -18,3 +18,5 @@ Skills used - BDD, Automation, devops
 4) command prompt under project directory -> mvn clean test -> (project will run as testng)
 
 #Chrome Browser- Version 96.0.4664.110
+
+#Note: user can send any timer value from env.properties file. Program will pick the updated value at runtime and start the countdown timer.
