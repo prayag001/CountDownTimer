@@ -11,3 +11,5 @@ Skills used - BDD, Automation
 2) right click on TimerCucumber.java -> run as a testNg (project will run as cucumber)
 3) right click on testng.xml -> run as a testng (project will run as testng)
 4) command prompt under project directory -> mvn clean test -> (project will run as testng)
+
+#Chrome Browser- Version 96.0.4664.110
